@@ -1,6 +1,6 @@
-#📊 Swiggy MIS Dashboard & Automated Reporting (Excel + VBA)
+# 📊 Swiggy MIS Dashboard & Automated Reporting (Excel + VBA)
 
-##🔍 Project Overview
+## 🔍 Project Overview
 
 This project is an end-to-end MIS (Management Information System) dashboard built in Microsoft Excel to analyze Swiggy order data. It provides actionable insights on revenue, customer behavior, delivery performance, and payment trends.
 
@@ -8,7 +8,7 @@ The project also includes VBA automation to generate and export reports in PDF f
 
 ---
 
-##🎯 Objectives
+## 🎯 Objectives
 
 - Analyze order and revenue trends
 - Track key business KPIs
@@ -18,36 +18,33 @@ The project also includes VBA automation to generate and export reports in PDF f
 
 ---
 
-##📌 Key Features
+## 📌 Key Features
 
-📊 Interactive Dashboard
+### 📊 Interactive Dashboard
 
-- KPI Cards:
-  
-  - Total Orders: 176.87K
-  - Total Revenue: ₹47.62M
-  - Average Order Value: ₹269
-  - Average Delivery Time: ~40 mins
-  - Average Rating: 4.34
+**KPI Cards:**
+- Total Orders: 176.87K
+- Total Revenue: ₹47.62M
+- Average Order Value: ₹269
+- Average Delivery Time: ~40 mins
+- Average Rating: 4.34
 
-- Charts & Visuals:
-  
-  - Monthly Revenue Trend (line chart)
-  - Top 5 Cities by Revenue (bar chart)
-  - Payment Method Usage (bar + pie chart)
-  - Rating Category Analysis
-  - Top 10 Restaurants by Revenue
+**Charts & Visuals:**
+- Monthly Revenue Trend (line chart)
+- Top 5 Cities by Revenue (bar chart)
+- Payment Method Usage (bar + pie chart)
+- Rating Category Analysis
+- Top 10 Restaurants by Revenue
 
-- Filters (Slicers):
-  
-  - State
-  - Order Date (Month-wise)
-  - Payment Method
-  - Rating Category
+**Filters (Slicers):**
+- State
+- Order Date (Month-wise)
+- Payment Method
+- Rating Category
 
 ---
 
-##💡 Key Insights
+## 💡 Key Insights
 
 - UPI is the most preferred payment method
 - Bengaluru generates the highest revenue
@@ -57,7 +54,7 @@ The project also includes VBA automation to generate and export reports in PDF f
 
 ---
 
-##⚙️ Automation (VBA)
+## ⚙️ Automation (VBA)
 
 - One-click report generation using button
 - Automatically exports dashboard as PDF
@@ -65,7 +62,7 @@ The project also includes VBA automation to generate and export reports in PDF f
 
 ---
 
-##🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Microsoft Excel (Pivot Tables, Charts, Slicers)
 - Excel Formulas (IF, INDEX-MATCH, Aggregations)
@@ -73,64 +70,59 @@ The project also includes VBA automation to generate and export reports in PDF f
 
 ---
 
-##📁 Project Structure
+## 📁 Project Structure
 
-- "Dashboard Sheet" → Main interactive dashboard
-- "Data Sheet" → Raw dataset
-- "Pivot Tables" → Backend calculations
-- "VBA Module" → Report generation macro
+- "Dashboard Sheet" → Main interactive dashboard  
+- "Data Sheet" → Raw dataset  
+- "Pivot Tables" → Backend calculations  
+- "VBA Module" → Report generation macro  
+
+---
+
+## 🚀 How to Use
+
+1. Open the Excel file  
+2. Use slicers to filter data dynamically  
+3. Click on "Generate Report" button  
+4. PDF report will be automatically generated  
 
 ---
 
-##🚀 How to Use
-
-1. Open the Excel file
-2. Use slicers to filter data dynamically
-3. Click on "Generate Report" button
-4. PDF report will be automatically generated
-
----
-##📁 Full Excel File
+## 📁 Full Excel File
 
 Due to GitHub file size limitations, the complete Excel (.xlsm) project file is available here:
 
-👉 https://docs.google.com/spreadsheets/d/1BXZUOwl4BRsw7kjiFu7AT9ivtr6uBGlh/edit?usp=drive_link&ouid=105110341464167738455&rtpof=true&sd=true
+👉 [Download Project File](https://docs.google.com/spreadsheets/d/1BXZUOwl4BRsw7kjiFu7AT9ivtr6uBGlh/edit?usp=drive_link&ouid=105110341464167738455&rtpof=true&sd=true)
 
-You can download and explore:
+---
 
-- Interactive Dashboard
-- VBA Automation
-- Full Dataset
-  
-⚠️ Note on File Preview
+## ⚠️ Note on File Preview
 
 This project is built using Microsoft Excel with VBA automation.
 
 Due to compatibility limitations:
 
-- Google Sheets does not support VBA/macros
-- Some dashboard elements may not display correctly online
+- Google Sheets does not support VBA/macros  
+- Some dashboard elements may not display correctly online  
 
-👉 Please download the file from the link below and open it in Microsoft Excel for full functionality:
-
-  
----
-
-##📈 Business Impact
-
-- Helps stakeholders track performance in real-time
-- Reduces manual reporting effort
-- Enables data-driven decision making
+👉 Please download the file and open it in Microsoft Excel for full functionality.
 
 ---
 
-##👩‍💻 Author
+## 📈 Business Impact
 
-Aparna Sharma
-Aspiring MIS Executive | Excel | SQL | Data Visualization
+- Helps stakeholders track performance in real-time  
+- Reduces manual reporting effort  
+- Enables data-driven decision making  
 
 ---
 
-##⭐ Note
+## 👩‍💻 Author
 
+**Aparna Sharma**  
+Aspiring MIS Executive | Excel | SQL | Data Visualization  
+
+---
+
+## ⭐ Note
 This project demonstrates practical MIS reporting skills, dashboard design, and automation — aligned with real-world business requirements.
