@@ -90,6 +90,31 @@ The project also includes VBA automation to generate and export reports in PDF f
 4. PDF report will be automatically generated
 
 ---
+📁 Full Excel File
+
+Due to GitHub file size limitations, the complete Excel (.xlsm) project file is available here:
+
+👉 https://docs.google.com/spreadsheets/d/1BXZUOwl4BRsw7kjiFu7AT9ivtr6uBGlh/edit?usp=drive_link&ouid=105110341464167738455&rtpof=true&sd=true
+
+You can download and explore:
+
+- Interactive Dashboard
+- VBA Automation
+- Full Dataset
+  
+⚠️ Note on File Preview
+
+This project is built using Microsoft Excel with VBA automation.
+
+Due to compatibility limitations:
+
+- Google Sheets does not support VBA/macros
+- Some dashboard elements may not display correctly online
+
+👉 Please download the file from the link below and open it in Microsoft Excel for full functionality:
+
+  
+---
 
 📈 Business Impact
 
