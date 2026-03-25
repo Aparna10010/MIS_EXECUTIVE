@@ -1,6 +1,6 @@
-📊 Swiggy MIS Dashboard & Automated Reporting (Excel + VBA)
+#📊 Swiggy MIS Dashboard & Automated Reporting (Excel + VBA)
 
-🔍 Project Overview
+##🔍 Project Overview
 
 This project is an end-to-end MIS (Management Information System) dashboard built in Microsoft Excel to analyze Swiggy order data. It provides actionable insights on revenue, customer behavior, delivery performance, and payment trends.
 
@@ -8,7 +8,7 @@ The project also includes VBA automation to generate and export reports in PDF f
 
 ---
 
-🎯 Objectives
+##🎯 Objectives
 
 - Analyze order and revenue trends
 - Track key business KPIs
@@ -18,7 +18,7 @@ The project also includes VBA automation to generate and export reports in PDF f
 
 ---
 
-📌 Key Features
+##📌 Key Features
 
 📊 Interactive Dashboard
 
@@ -47,7 +47,7 @@ The project also includes VBA automation to generate and export reports in PDF f
 
 ---
 
-💡 Key Insights
+##💡 Key Insights
 
 - UPI is the most preferred payment method
 - Bengaluru generates the highest revenue
@@ -57,7 +57,7 @@ The project also includes VBA automation to generate and export reports in PDF f
 
 ---
 
-⚙️ Automation (VBA)
+##⚙️ Automation (VBA)
 
 - One-click report generation using button
 - Automatically exports dashboard as PDF
@@ -65,7 +65,7 @@ The project also includes VBA automation to generate and export reports in PDF f
 
 ---
 
-🛠️ Tools & Technologies
+##🛠️ Tools & Technologies
 
 - Microsoft Excel (Pivot Tables, Charts, Slicers)
 - Excel Formulas (IF, INDEX-MATCH, Aggregations)
@@ -73,7 +73,7 @@ The project also includes VBA automation to generate and export reports in PDF f
 
 ---
 
-📁 Project Structure
+##📁 Project Structure
 
 - "Dashboard Sheet" → Main interactive dashboard
 - "Data Sheet" → Raw dataset
@@ -82,7 +82,7 @@ The project also includes VBA automation to generate and export reports in PDF f
 
 ---
 
-🚀 How to Use
+##🚀 How to Use
 
 1. Open the Excel file
 2. Use slicers to filter data dynamically
@@ -90,7 +90,7 @@ The project also includes VBA automation to generate and export reports in PDF f
 4. PDF report will be automatically generated
 
 ---
-📁 Full Excel File
+##📁 Full Excel File
 
 Due to GitHub file size limitations, the complete Excel (.xlsm) project file is available here:
 
@@ -116,7 +116,7 @@ Due to compatibility limitations:
   
 ---
 
-📈 Business Impact
+##📈 Business Impact
 
 - Helps stakeholders track performance in real-time
 - Reduces manual reporting effort
@@ -124,13 +124,13 @@ Due to compatibility limitations:
 
 ---
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Aparna Sharma
 Aspiring MIS Executive | Excel | SQL | Data Visualization
 
 ---
 
-⭐ Note
+##⭐ Note
 
 This project demonstrates practical MIS reporting skills, dashboard design, and automation — aligned with real-world business requirements.
